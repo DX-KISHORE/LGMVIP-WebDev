@@ -1,2 +1,2 @@
 # LGMVIP-WebDev
-Kihore kumar
+Kishore kumar
